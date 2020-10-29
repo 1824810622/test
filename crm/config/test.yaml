@@ -1,0 +1,16 @@
+LoginPage:
+  username: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/div/input
+  password: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div/input
+  login: //*[@id="in1"]
+  frame_name: topFrame
+  cus_button: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+  cus_add: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  cus_name: /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+  cus_birth: //*[@id="customerBirthday"]
+  cus_addman: /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+  cus_Email: /html/body/form/table[1]/tbody/tr[4]/td[4]/input
+  add_submit: /html/body/form/table[2]/tbody/tr/td[2]/input
+  cus_modify_button: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  cus_modify_address: customerAddress
+
+
